@@ -9,7 +9,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 
 
 
-### Principais Linguagens 💻🖱️
+###Principais Linguagens 💻🖱️
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -22,7 +22,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 ![VSCODE](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
  
 
-### Linguagens em aprendizado 👩🏻‍💻
+## Linguagens em aprendizado 👩🏻‍💻
 ![MONGODB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![NODEJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
@@ -33,7 +33,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caroolnascimento)]
 
 
-### Me siga em outras páginas da Web 🌍
+## Redes Sociais 🌍
 
 <div>
   <a href = "mailto: nascimento559@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
