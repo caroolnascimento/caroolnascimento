@@ -6,7 +6,7 @@ Tenho 26 anos, paulistana, pisciana e sou graduada em Pedagogia, mas me descobri
 Busco na tecnologia uma forma de estabilização, independência, conhecimento e crescimento.📫  E também um aprimoramento maior onde eu possa conduzir pessoas e clientes a experiências incríveis, inéditas e inesquecíveis.
 
 Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganismo, tenho como hobby a prática do yoga e da meditação, bem como cuidar das minhas plantinhas e de uma horta orgânica que tenho em casa, vejo o pôr do sol sempre que posso e amo ver filmes antes de dormir. Adoro viagens, amigos e cerveja. 
----
+
 
 
 ### Principais Linguagens 💻🖱️
@@ -30,8 +30,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroolnascimento)](https://github.com/anuraghazra/github-readme-stats)
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caroolnascimento)]
 
 
 ### Me siga em outras páginas da Web 🌍
