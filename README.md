@@ -9,7 +9,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 
 
 
-###Principais Linguagens 💻🖱️
+## Principais Linguagens 💻🖱️
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
