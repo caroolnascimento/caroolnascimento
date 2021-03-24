@@ -3,7 +3,9 @@
 
 Tenho 26 anos, paulistana, pisciana e sou graduada em Pedagogia, mas me descobri na Programação!❤️
 
-Busco na tecnologia uma forma de estabilização, independência, conhecimento e crescimento.📫  E também um aprimoramento maior onde eu possa conduzir pessoas e clientes a experiências incríveis, inéditas e inesquecíveis.
+Busco na tecnologia uma forma de estabilização, independência, conhecimento e crescimento.
+
+E também um aprimoramento maior onde eu possa conduzir pessoas e clientes a experiências incríveis, inéditas e inesquecíveis.
 
 Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganismo, tenho como hobby a prática do yoga e da meditação, bem como cuidar das minhas plantinhas e de uma horta orgânica que tenho em casa, vejo o pôr do sol sempre que posso e amo ver filmes antes de dormir. Adoro viagens, amigos e cerveja. 
 
