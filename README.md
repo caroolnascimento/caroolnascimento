@@ -43,6 +43,6 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
     <a href="https://instagram.com/caroolnascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### 👀 visitor count
+### Visitantes 👀
 
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
