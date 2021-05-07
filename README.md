@@ -17,6 +17,7 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+![NODEJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=PHP&logoColor=ffffff)
 ![GIT](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
@@ -26,7 +27,6 @@ Sou vegetariana 🌱 há 10 anos e há 2 anos tento seguir ao máximo o veganism
 
 ## Tecnologias em aprendizado 👩🏻‍💻
 ![MONGODB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-![NODEJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![EXPRESSJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
 ![PYTHON](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white) 
 ---
